@@ -69,7 +69,7 @@ const Cell: React.FC<CellProps> = ({
 
     console.log(`board[${row}][${col}] = ${intVal}`);
     // without copying the renders are delayed
-    // TODO(wilmol) why is this?
+    // TODO(will-molloy) why is this?
     const boardCopy = [...board];
     boardCopy[row][col].value = intVal;
     boardCopy[row][col].initiallySet = intVal > 0;
