@@ -2,8 +2,8 @@
   "name": "sudoku-solver-react.js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wilmol.github.io/sudoku-solver-react.js/",
-  "repository": "github:wilmol/sudoku-solver-react.js",
+  "homepage": "https://will-molloy.github.io/sudoku-solver-react.js/",
+  "repository": "github:will-molloy/sudoku-solver-react.js",
   "license": "GPL-2.0",
   "scripts": {
     "build": "react-scripts build",

@@ -1,12 +1,12 @@
 # sudoku-solver-react.js
 
-[![build](https://github.com/wilmol/sudoku-solver-react.js/workflows/build/badge.svg?event=push)](https://github.com/wilmol/sudoku-solver-react.js/actions?query=workflow%3Abuild)
-[![codecov](https://codecov.io/gh/wilmol/sudoku-solver-react.js/branch/master/graph/badge.svg)](https://codecov.io/gh/wilmol/sudoku-solver-react.js)
+[![build](https://github.com/will-molloy/sudoku-solver-react.js/workflows/build/badge.svg?event=push)](https://github.com/will-molloy/sudoku-solver-react.js/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/will-molloy/sudoku-solver-react.js/branch/master/graph/badge.svg)](https://codecov.io/gh/will-molloy/sudoku-solver-react.js)
 
 sudoku solver built with react.js
 
 ## Usage
-**Site is available here: https://wilmol.github.io/sudoku-solver-react.js/**
+**Site is available here: https://will-molloy.github.io/sudoku-solver-react.js/**
 
 #### Install dependencies and start
 ```
@@ -24,4 +24,4 @@ npm run stylelint -- --fix
 ```
 npm run deploy
 ```
-The site will be available at: https://wilmol.github.io/sudoku-solver-react.js/
+The site will be available at: https://will-molloy.github.io/sudoku-solver-react.js/
